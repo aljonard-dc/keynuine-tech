@@ -191,31 +191,30 @@ export const socialMedia = [
 export const ProjectItems = [
   {
     index: 0,
-    title: "TravelCN",
+    title: "Lynda’s Ordering System",
     description:
-      "TravelCN is a website that showcases the stunning landmarks and must-visit tourist spots in Camarines Norte, Philippines.",
-    image: "/projects/travelcn.svg",
-    visitLink: "https://travelcn.vercel.app/",
-    codeLink: "https://github.com/aljonard-dc/travelcn",
+      "A multi-branch ordering platform for tracking lechon and restaurant orders with real-time monitoring, deposit and balance computation, and role-based access for staff and admins.",
+    image: "/projects/lyndas.png",
+    visitLink: "https://lyndas-ordering-system.vercel.app/",
+    codeLink: "https://github.com/johnreyluntayao/lyndas-ordering-system",
   },
   {
     index: 1,
-    title: "Elementalix",
+    title: "Daily Lesson Log Generator",
     description:
-      "Elementalix is an AR learning app that makes studying the Periodic Table immersive with a 360° view and detailed element data.",
-    image: "/projects/elementalix.jpg",
-    visitLink: "https://github.com/johnrefani/Elementalix",
-    codeLink: "https://github.com/johnrefani/Elementalix",
+      "A web-based tool that automates Daily Lesson Log creation for teachers with customizable subjects, sections, and printable documents, improving efficiency and reducing manual work.",
+    image: "/projects/PUP.png",
+    visitLink: "https://dlpgenerator.vercel.app/",
+    codeLink: "https://github.com/johnrefani/dlpgenerator",
   },
   {
     index: 2,
-    title: "Natura Verde",
+    title: "School Information System",
     description:
-      "Natura Verde website streamlines resort bookings with a user-friendly interface, detailed resort info, a virtual tour, and an automated reservation system for efficiency and accuracy.",
-    image: "/projects/natura.png",
-    visitLink: "https://naturaverde.website/",
-    codeLink:
-      "https://github.com/aljonard-dc/Resort-Web-based-Reservation-Management-System",
+      "A role-based school system for managing academic records, enrollments, and generating reports for admins, instructors, and students.",
+    image: "/projects/schoolinfo.jpg",
+    visitLink: "https://github.com/johnrefani/SchoolInformationSytem",
+    codeLink: "https://github.com/johnrefani/SchoolInformationSytem",
   },
   {
     index: 3,
@@ -228,12 +227,31 @@ export const ProjectItems = [
   },
   {
     index: 4,
-    title: "School Information System",
+    title: "Natura Verde",
     description:
-      "A role-based school system for managing academic records, enrollments, and generating reports for admins, instructors, and students.",
-    image: "/projects/schoolinfo.jpg",
-    visitLink: "https://github.com/johnrefani/SchoolInformationSytem",
-    codeLink: "https://github.com/johnrefani/SchoolInformationSytem",
+      "Natura Verde website streamlines resort bookings with a user-friendly interface, detailed resort info, a virtual tour, and an automated reservation system for efficiency and accuracy.",
+    image: "/projects/natura.png",
+    visitLink: "https://naturaverde.website/",
+    codeLink:
+      "https://github.com/aljonard-dc/Resort-Web-based-Reservation-Management-System",
+  },
+  {
+    index: 5,
+    title: "Elementalix",
+    description:
+      "Elementalix is an AR learning app that makes studying the Periodic Table immersive with a 360° view and detailed element data.",
+    image: "/projects/elementalix.jpg",
+    visitLink: "https://github.com/johnrefani/Elementalix",
+    codeLink: "https://github.com/johnrefani/Elementalix",
+  },
+  {
+    index: 6,
+    title: "TravelCN",
+    description:
+      "TravelCN is a website that showcases the stunning landmarks and must-visit tourist spots in Camarines Norte, Philippines.",
+    image: "/projects/travelcn.svg",
+    visitLink: "https://travelcn.vercel.app/",
+    codeLink: "https://github.com/aljonard-dc/travelcn",
   },
 ];
 
